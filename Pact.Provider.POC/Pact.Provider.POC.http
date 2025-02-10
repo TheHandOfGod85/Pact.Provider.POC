@@ -1,0 +1,6 @@
+@Pact.Provider.POC_HostAddress = http://localhost:5198
+
+GET {{Pact.Provider.POC_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

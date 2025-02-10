@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "Xci3XgUbwPrOvKUW2EUSJ3GSvABWW9dI6aSU8+4GzAU=",
+  "Source": "Pact.Provider.POC",
+  "BasePath": "_content/Pact.Provider.POC",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
