@@ -1,12 +1,12 @@
-﻿using Contract.Tests.Middlewares;
-using Microsoft.AspNetCore.Builder;
+﻿using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Mvc.Testing;
 using Microsoft.AspNetCore.TestHost;
 using Microsoft.Extensions.DependencyInjection;
-using Pact.Provider.POC.Repositories;
+using Provider.POC.Repositories;
+using Provider.Tests.Middlewares;
 
-namespace Contract.Tests
+namespace Provider.Tests
 {
     public class TestWebAppFactory : WebApplicationFactory<Program>
     {

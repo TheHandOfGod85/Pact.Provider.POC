@@ -1,7 +1,7 @@
 ﻿using Microsoft.Extensions.DependencyInjection;
-using Pact.Provider.POC.Repositories;
+using Provider.POC.Repositories;
 
-namespace Contract.Tests
+namespace Provider.Tests
 {
     public abstract class BaseIntegrationTest : IClassFixture<TestWebAppFactory>
     {

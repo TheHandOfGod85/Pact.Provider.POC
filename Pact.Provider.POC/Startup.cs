@@ -1,6 +1,6 @@
-﻿using Pact.Provider.POC.Repositories;
+﻿using Provider.POC.Repositories;
 
-namespace Pact.Provider.POC
+namespace Provider.POC
 {
     public class Startup
     {

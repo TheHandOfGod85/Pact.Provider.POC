@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+kdeios+UNc=",
+  "dgSpecHash": "9gsxrY94Inw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\daniele.delpiano\\source\\repos\\Pact.Provider.POC\\Contract.Tests\\Contract.Tests.csproj",
+  "projectFilePath": "C:\\GeneralRepos\\Pact.Provider.POC\\Contract.Tests\\Provider.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\daniele.delpiano\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\daniele.delpiano\\.nuget\\packages\\microsoft.aspnetcore.mvc.testing\\8.0.12\\microsoft.aspnetcore.mvc.testing.8.0.12.nupkg.sha512",

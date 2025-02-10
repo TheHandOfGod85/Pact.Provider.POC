@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2sgseJMTjUY=",
+  "dgSpecHash": "Azj3tKoUIKc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\daniele.delpiano\\source\\repos\\Pact.Provider.POC\\Pact.Provider.POC\\Pact.Provider.POC.csproj",
+  "projectFilePath": "C:\\GeneralRepos\\Pact.Provider.POC\\Pact.Provider.POC\\Provider.POC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\daniele.delpiano\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.12\\microsoft.aspnetcore.openapi.8.0.12.nupkg.sha512",
     "C:\\Users\\daniele.delpiano\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",

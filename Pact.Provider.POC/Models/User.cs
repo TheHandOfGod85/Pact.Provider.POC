@@ -1,4 +1,4 @@
-﻿namespace Pact.Provider.POC.Models
+﻿namespace Provider.POC.Models
 {
     public class User
     {

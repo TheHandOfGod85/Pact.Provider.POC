@@ -1,5 +1,4 @@
-
-using Pact.Provider.POC;
+using Provider.POC;
 
 Startup.WebApp(args).Run();
 

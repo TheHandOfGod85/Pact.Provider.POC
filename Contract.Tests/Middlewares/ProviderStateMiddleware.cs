@@ -1,10 +1,10 @@
 ﻿using Microsoft.AspNetCore.Http;
-using Pact.Provider.POC.Repositories;
+using Provider.POC.Repositories;
 using System.Net;
 using System.Text;
 using System.Text.Json;
 
-namespace Contract.Tests.Middlewares
+namespace Provider.Tests.Middlewares
 {
     public class ProviderStateMiddleware
     {

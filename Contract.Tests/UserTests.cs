@@ -1,14 +1,14 @@
-﻿using Contract.Tests.Middlewares;
-using Microsoft.AspNetCore.Builder;
+﻿using Microsoft.AspNetCore.Builder;
 using Microsoft.Extensions.Hosting;
-using Pact.Provider.POC;
 using PactNet;
 using PactNet.Infrastructure.Outputters;
 using PactNet.Output.Xunit;
 using PactNet.Verifier;
+using Provider.POC;
+using Provider.Tests.Middlewares;
 using Xunit.Abstractions;
 
-namespace Contract.Tests
+namespace Provider.Tests
 {
     public class UserTests
     {

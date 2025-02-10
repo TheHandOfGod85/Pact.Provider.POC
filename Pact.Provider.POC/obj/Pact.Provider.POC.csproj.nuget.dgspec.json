@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\daniele.delpiano\\source\\repos\\Pact.Provider.POC\\Pact.Provider.POC\\Pact.Provider.POC.csproj": {}
+    "C:\\GeneralRepos\\Pact.Provider.POC\\Pact.Provider.POC\\Pact.Provider.POC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\daniele.delpiano\\source\\repos\\Pact.Provider.POC\\Pact.Provider.POC\\Pact.Provider.POC.csproj": {
+    "C:\\GeneralRepos\\Pact.Provider.POC\\Pact.Provider.POC\\Pact.Provider.POC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\daniele.delpiano\\source\\repos\\Pact.Provider.POC\\Pact.Provider.POC\\Pact.Provider.POC.csproj",
+        "projectUniqueName": "C:\\GeneralRepos\\Pact.Provider.POC\\Pact.Provider.POC\\Pact.Provider.POC.csproj",
         "projectName": "Pact.Provider.POC",
-        "projectPath": "C:\\Users\\daniele.delpiano\\source\\repos\\Pact.Provider.POC\\Pact.Provider.POC\\Pact.Provider.POC.csproj",
+        "projectPath": "C:\\GeneralRepos\\Pact.Provider.POC\\Pact.Provider.POC\\Pact.Provider.POC.csproj",
         "packagesPath": "C:\\Users\\daniele.delpiano\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\daniele.delpiano\\source\\repos\\Pact.Provider.POC\\Pact.Provider.POC\\obj\\",
+        "outputPath": "C:\\GeneralRepos\\Pact.Provider.POC\\Pact.Provider.POC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

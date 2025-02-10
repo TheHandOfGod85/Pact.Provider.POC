@@ -1,6 +1,6 @@
-﻿using Pact.Provider.POC.Models;
+﻿using Provider.POC.Models;
 
-namespace Pact.Provider.POC.Repositories
+namespace Provider.POC.Repositories
 {
     public class UserRepository : IUserRepository
     {

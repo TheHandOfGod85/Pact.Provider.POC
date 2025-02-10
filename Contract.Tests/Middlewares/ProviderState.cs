@@ -1,4 +1,4 @@
-﻿namespace Contract.Tests.Middlewares
+﻿namespace Provider.Tests.Middlewares
 {
     public class ProviderState
     {

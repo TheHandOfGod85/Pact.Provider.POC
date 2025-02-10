@@ -1,8 +1,8 @@
 {
   "Version": 1,
-  "Hash": "Xci3XgUbwPrOvKUW2EUSJ3GSvABWW9dI6aSU8+4GzAU=",
-  "Source": "Pact.Provider.POC",
-  "BasePath": "_content/Pact.Provider.POC",
+  "Hash": "8mDGJJ0dr7qIciFSN2v02mMKhcGF4n1Cs7kIqL9oecc=",
+  "Source": "Provider.POC",
+  "BasePath": "_content/Provider.POC",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
