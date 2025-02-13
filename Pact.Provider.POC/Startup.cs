@@ -33,6 +33,13 @@ namespace Provider.POC
             .Produces<object>(200)
             .WithOpenApi();
 
+            app.MapPost("/trigger-pact-verification", async () =>
+            {
+                Console.WriteLine("Received webhook from Pact Broker. Running verification...");
+                await Task.Delay(3000);
+                return Results.Ok(new { message = "Verification success!", });
+            });
+
             return app;
         }
     }

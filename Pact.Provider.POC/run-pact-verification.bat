@@ -1,0 +1,3 @@
+@echo off
+echo Running Pact verification...
+dotnet test ../Provider.Tests/Provider.Tests.csproj --filter FullyQualifiedName=Provider.Tests.UserTests.GetUserContractTest

@@ -2,7 +2,6 @@
 using PactNet;
 using PactNet.Output.Xunit;
 using System.Net;
-using System.Text;
 using System.Text.Json;
 using Xunit.Abstractions;
 
@@ -56,11 +55,6 @@ namespace Consumer.Tests
                 Assert.Equal(1, user.Id);
                 Assert.Equal("John Doe", user.Name);
             });
-
-            using var client = new HttpClient();
-            var content = new StringContent(File.ReadAllText("../../../pacts/DotNet-consumer-DotNet-API.json"), Encoding.UTF8, "application/json");
-            var response = await client.PutAsync("http://localhost:9292/pacts/provider/DotNet-API/consumer/DotNet-Consumer/version/1.0.0", content);
-            Console.WriteLine(response.StatusCode);
         }
     }
 }
